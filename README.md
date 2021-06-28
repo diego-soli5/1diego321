@@ -11,6 +11,7 @@
 LINQ (Query Syntax / Method Syntax) <br>
 Delegados (Func, Action, Predicate) <br>
 Programación Asincrona (Task Async/Await) <br>
+Generics <br>
 Etc <br><br>
 	
 • JavaScript <br>
