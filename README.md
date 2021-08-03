@@ -1,10 +1,12 @@
 <h2>Conocimientos Generales</h2>
 • Paradigma POO <br>
-• SOLID <br>
+• SOLID (a un nivel más conceptual, aunque si puedo aplicar algunos de los principios) <br>
 • Servicios REST <br>
 • Json <br>
 • Json Web Token <br>
 • Swagger <br>
+• Bootstrap 4 <br>
+• Etc... <br>
 
 <h2>Lenguajes</h2>
 • C# <br>
@@ -12,6 +14,8 @@ LINQ (Query Syntax / Method Syntax) <br>
 Delegados (Func, Action, Predicate) <br>
 Programación Asincrona (Task Async/Await) <br>
 Generics <br>
+Extension Methods <br>
+Tuplas <br>
 Etc <br><br>
 	
 • JavaScript <br>
@@ -26,8 +30,7 @@ Api Local Storage <br>
 Etc <br><br>
 
 • CSS <br>
-Básico <br>
-Bootstrap 4 <br><br>
+Básico <br><br>
 
 • SQL - PL/SQL <br>
 Tablas <br>
@@ -40,23 +43,26 @@ Funciones <br>
 Triggers <br>
 Views <br>
 Normalización <br>
+Etc <br><br>
 
 <h2> Plataforma .NET </h2>
 • .NET Framework <br>
 Windows Forms <br>
 ADO.NET <br>
 ASP.NET MVC <br>
-EntityFramework 6 <br><br>
+EntityFramework 6 <br>
+Etc <br><br>
 
 • .NET Core <br>
 ASP.NET Core MVC <br>
 ASP.NET Web Api <br>
 ADO.NET <br> 
 EntityFramework Core <br>
+Etc <br><br>
 
 <h2>Bases de Datos SQL</h2>
-• SQL Server <br>
-• Oracle XE 11g <br><br>
+• SQL Server (principalmente) <br>
+• Oracle <br><br>
 
 <h2>Computación en la nube</h2>
 Conceptos básicos servicios basados en SaaS, PaaS, IaaS. <br><br>
