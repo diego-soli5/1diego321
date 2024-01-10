@@ -1,4 +1,4 @@
-<h2>Conocimientos Generales</h2>
+<h2>Conocimientos Generales (NO ACTUALIZADO)</h2>
 • Paradigma POO <br>
 • SOLID (a un nivel más conceptual, aunque si puedo aplicar algunos de los principios) <br>
 • Servicios REST <br>
